@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color:rgb(233, 208, 184);
+}
+
+.first img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.second p {
+    color: blue;
+    font-size: 30px;
+}
+
+
+.second a:hover {
+    color: green;
+}
+
+.second a {
+    text-decoration: none;
+    font-size: 100px;
+}
+
+

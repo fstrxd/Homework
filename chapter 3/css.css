@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.window {
+    margin: 80px;
+    padding: 20px;
+    height: 210px;
+    width: 560px;
+    background-color: rgb(215, 238, 252);
+    border-radius: 10px;
+}
+
+.window input {
+    border:rgba(0, 0, 0, 0.685) solid 0.3px;
+    border-radius: 2px;
+}
+
+b {
+    color: rgb(38, 173, 144);
+    font-size:  26px;
+}
+
+
+ textarea {
+    resize: none;
+    width: 555px;
+    height: 84px
+ }
+
+ .submit {
+    background-color:rgb(38, 173, 144) ;
+    color: white;
+    width: 140px;
+    height: 24px;
+    border-radius: 6px;
+ }
+.inputs {
+    margin-top: 10px;
+    display: inline-block;
+    flex: 1 100%;
+}
+
+.block1 {
+    display: inline-block;
+    flex: 1 100%;
+}
+
+.block2 {
+    margin-top: 15px;
+}
+
+.block3 {
+    margin-top: 15px;
+}
+
